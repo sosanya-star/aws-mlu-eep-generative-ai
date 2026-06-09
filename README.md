@@ -3,7 +3,7 @@
 
 Welcome to our Generative AI Learning Path! This repository contains educational materials designed to help you understand and work with Generative AI technologies, with a special focus on Large Language Models (LLMs) and Amazon Bedrock.
 
-## Content Overview
+### Content Overview
 
 This content is structured into three comprehensive modules, each containing multiple lessons accompanied by interactive laboratory exercises in the form of Jupyter notebooks. The notebooks contain detailed instructions, explanations, and activities to reinforce theoretical concepts with practical implementation.
 
